@@ -1,9 +1,8 @@
 .header {
   width: 100%;
-  max-width: 1100px;
-  margin: 0px auto;
   display: flex;
   align-items: center;
+  margin-bottom: 12px;
 }
 
 .header-logo {

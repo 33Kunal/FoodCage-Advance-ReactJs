@@ -3,3 +3,12 @@
   align-items: center;
   justify-content: center;
 }
+
+.max-width {
+  max-width: 1100px;
+  margin: 0px auto;
+}
+
+.cur-po {
+  cursor: pointer;
+}
