@@ -1,0 +1,35 @@
+.header {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0px auto;
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  height: 27px;
+  max-width: 140px;
+  margin-right: 12px;
+}
+
+.header-right {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  align-items: center;
+  height: 72px;
+}
+
+.header-location-container {
+  box-shadow: var(--primary-box-shadow);
+  height: 54px;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+  background-color: var(--primary-bg);
+}
+
+.location-search-separator {
+  height: 20px;
+  border: 0.5px solid var(--gray);
+}
