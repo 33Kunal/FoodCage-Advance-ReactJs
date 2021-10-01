@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./tabOptions.css";
 
 const tabs = [
@@ -31,9 +31,7 @@ const tabs = [
   },
 ];
 
-const TabOptions = () => {
-  const [activeTab, setActiveTab] = useState("Delivery");
-
+const TabOptions = ({ activeTab, setActiveTab }) => {
   return (
     <div className="tab-options">
       <div className="options-wrapper max-width">
