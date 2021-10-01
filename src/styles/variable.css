@@ -8,4 +8,10 @@
   --inactive-color: #f8f8f8;
   --inactive-text: #696969;
   --filter-text: #9c9c9c;
+  --secondary-bg: #f8f8f8;
+  --heading-text: #1c1c1c;
+  --collection-shadow: rgb(0 0 0 / 8%) 0px 3px 12px;
+  --tag-red: #d92662;
+  --tag-blue: #256fef;
+  --tag-green: #24963f;
 }
