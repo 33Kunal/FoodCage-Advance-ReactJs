@@ -20,10 +20,10 @@ const Collection = ({ list }) => {
         <div className="collection-subtitle-row">
           <div className="collection-subtitle-text">
             Explore curated lists of top restaurants, cafes, pubs, and bars in
-            Bengaluru, based on trends
+            Pune, based on trends
           </div>
           <div className="collection-location">
-            <div>All Collections in Bangalore </div>
+            <div>All Collections in Pune </div>
             <i className="fi fi-rr-caret-right absolute-center"></i>
           </div>
         </div>
